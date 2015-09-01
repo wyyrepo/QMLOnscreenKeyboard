@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>virtualBoard_en.qml</file>
+    </qresource>
+</RCC>
