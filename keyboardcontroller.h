@@ -15,4 +15,4 @@ public slots:
 	void emitKey(Qt::Key key);
 };
 
-#endif // KEY_EMITTER_H
+#endif 
